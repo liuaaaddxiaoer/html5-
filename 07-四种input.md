@@ -1,9 +1,7 @@
 # Input类型 type
 
-
-
-* #### [password](http://www.w3school.com.cn/tags/tag_input.asp "input标签type")                              ![](/assets/passwordInput.png)
-* #### text                                      ![](/assets/textInput.png)
+* # [password](http://www.w3school.com.cn/tags/tag_input.asp "input标签type")                              ![](/assets/passwordInput.png)
+* # text                                      ![](/assets/textInput.png)
 
 #### button    ![](/assets/btnInput.png)
 
@@ -13,21 +11,16 @@
 * image  ![](/assets/imageInput.png) 
 
 ```
-   <input type="image" src="Snip20170119_1.png">
+<input type="image" src="Snip20170119_1.png">
 ```
-
-
 
 * radio  ![](/assets/radioInput.png)
 
   是圆点  checkbox是勾
 
 * reset  ![](/assets/resetinput.png)
+
 * submit ![](/assets/submitinput.png)
-
-
-
-
 
 #### input    ：   [http://www.w3school.com.cn/tags/tag\_input.asp](http://www.w3school.com.cn/tags/tag_input.asp)
 
@@ -46,8 +39,11 @@
 ```
 <input type="radio" name="nan"> 男
 <input type="radio" name="d"> 男
-
 ```
+
+
+
+## time color  等是h5的 
 
 
 
