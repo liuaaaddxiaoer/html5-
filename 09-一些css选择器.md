@@ -9,7 +9,7 @@
 7. div&gt;p 直接后代选择器\(儿子\)
 
 ```
-    <style>
+<style>
         div>p{
             background-color: blue;
         }
@@ -29,7 +29,7 @@
     </div>
 ```
 
-8.\*通配符选择器
+8.\*通配符选择
 
 9. 序选择器 :可以选择第一个 最后一个等  
 
@@ -39,7 +39,7 @@ div li:nth-child(2n+2) 选择所有的偶数
 ```
 
 ```
-  <style>
+<style>
         div li:last-child {
             background-color: blue;
         }
@@ -58,6 +58,4 @@ div li:nth-child(2n+2) 选择所有的偶数
 ```
 
 可以用safari的 用户代理模式模拟
-
-
 
