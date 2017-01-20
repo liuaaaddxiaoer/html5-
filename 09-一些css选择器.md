@@ -29,9 +29,11 @@
     </div>
 ```
 
-8.\*通配符选择
+8.\*通配符选
 
-9. 序选择器 :可以选择第一个 最后一个等  
+9：
+
+序选择器 :可以选择第一个 最后一个等  
 
 ```
 div li:nth-child(2)  选择第二个
@@ -58,4 +60,27 @@ div li:nth-child(2n+2) 选择所有的偶数
 ```
 
 可以用safari的 用户代理模式模拟
+
+
+
+10.下一个兄弟选择器
+
+div+p    只有第一行变了
+
+```
+    <style>
+        div+p{
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div></div>
+    <p>haha</p>
+    <p>haha2</p>
+    <p>haha3</p>
+    <p>haha</p>
+```
+
+
 
